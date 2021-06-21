@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdipietro09&label=Profile%20views&color=0e75b6&style=flat" alt="mdipietro09"/> </p>
 
-<img src="https://en.wikipedia.org/wiki/Hypercube#/media/File:8-cell.gif"/>
+<img src="https://commons.wikimedia.org/wiki/File:8-cell.gif#/media/File:8-cell.gif"/>
 
 :computer: Welocome to my office, here you shall find
 
