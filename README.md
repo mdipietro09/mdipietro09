@@ -25,5 +25,5 @@
 
 :iphone: Contact me on [LinkedIn](https://www.linkedin.com/in/mauro-di-pietro-56a1366b/) or [Twitter](https://twitter.com/maurodp90)
 
-:iphone: Contact me on <a href="https://www.linkedin.com/in/mauro-di-pietro-56a1366b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="chandrikadeb7"/></a> or <a href="https://twitter.com/maurodp90" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="chandrikadeb7" height="30" width="40" /></a>
+:iphone: Contact me on <a href="https://www.linkedin.com/in/mauro-di-pietro-56a1366b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="chandrikadeb7" height="30" width="40"/></a> or <a href="https://twitter.com/maurodp90" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="chandrikadeb7" height="30" width="40"/></a>
 
