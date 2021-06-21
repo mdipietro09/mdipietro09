@@ -6,7 +6,7 @@ Welocome to my office, here you shall find:
 
 - Web Development
   - [Dash App]()
-  - [Telegram Bot](https://github.com/mdipietro09/Bot_TelegramDatesReminder) to R ➡ [chat with the Bot](https://t.me/DatesReminderBot)
+  - [Telegram Bot](https://github.com/mdipietro09/Bot_TelegramDatesReminder) to R ⇨ [chat with the Bot](https://t.me/DatesReminderBot)
 
 Most of my projects are documented on [Medium](https://mdipietro09.medium.com/)
 
