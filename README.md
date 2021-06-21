@@ -1,4 +1,4 @@
-### I'm a Data Scientist and I love it!
+### I'm a Data Scientist and I love it! :it:	:alien:	:ghost:	:earth_americas:	
 
 Welocome to my office, here you shall find:
 
