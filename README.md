@@ -4,7 +4,7 @@
 
 :computer: Welocome to my office, here you shall find
 
-- Data Science & Artficial Intelligence [Use Cases](https://github.com/mdipietro09/DataScience_ArtificialIntelligence_Utils):
+- Data Science & Artificial Intelligence [Use Cases](https://github.com/mdipietro09/DataScience_ArtificialIntelligence_Utils):
     - Time series 📈
     - Data analysis 📊 
     - Machine Learning :electron:
