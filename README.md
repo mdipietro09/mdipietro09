@@ -28,5 +28,4 @@
 
 🗨️ Contact me on <a href="https://www.linkedin.com/in/mauro-di-pietro-56a1366b/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="chandrikadeb7" height="15" width="20"/></a> or <a href="https://twitter.com/maurodp90" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="chandrikadeb7" height="15" width="20"/></a>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Two_repetitions_of_a_walking_sequence_of_an_individual_recorded_using_a_motion-capture_system.gif"/>
-
+<p><a href="https://commons.wikimedia.org/wiki/File:8-cell.gif#/media/File:8-cell.gif"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/8-cell.gif" alt="8-cell.gif"></a></p>
