@@ -1,8 +1,8 @@
 ### I'm a Data Scientist, I do Data Science stuff ... and I love it! 🇮🇹 👽 👻
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdipietro09&label=Profile%20views&color=0e75b6&style=flat" alt="mdipietro09" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdipietro09&label=Profile%20views&color=0e75b6&style=flat" alt="mdipietro09"/> </p>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Two_repetitions_of_a_walking_sequence_of_an_individual_recorded_using_a_motion-capture_system.gif" height="300" width="500" />
+<img src="https://en.wikipedia.org/wiki/Hypercube#/media/File:8-cell.gif"/>
 
 :computer: Welocome to my office, here you shall find
 
@@ -26,7 +26,7 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Two_repetitions_of_a_walking_sequence_of_an_individual_recorded_using_a_motion-capture_system.gif"/>
 
-:black_nib:	Most of my projects are documented on <a href="https://mdipietro09.medium.com" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@chandrikadeb7" height="15" width="20" /></a>
+:black_nib:	Most of my projects are documented on <a href="https://mdipietro09.medium.com" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@chandrikadeb7" height="15" width="20"/></a>
 
 :iphone: Contact me on <a href="https://www.linkedin.com/in/mauro-di-pietro-56a1366b/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="chandrikadeb7" height="15" width="20"/></a> or <a href="https://twitter.com/maurodp90" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="chandrikadeb7" height="15" width="20"/></a>
 
