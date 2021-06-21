@@ -1,10 +1,10 @@
-### I'm a Data Scientist and I love it! 🇮🇹 👽 👻
+### I'm a Data Scientist, I do Data Science stuff ... and I love it! 🇮🇹 👽 👻
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdipietro09&label=Profile%20views&color=0e75b6&style=flat" alt="mdipietro09" /> </p>
 
 :computer: Welocome to my office, here you shall find
 
-- Data Science & Machine Learning real [Use Cases](https://github.com/mdipietro09/DataScience_ArtificialIntelligence_Utils):
+- Data Science & Artficial Intelligence [Use Cases](https://github.com/mdipietro09/DataScience_ArtificialIntelligence_Utils):
     - Time series 📈
     - Data analysis 📊 
     - Machine Learning :electron:
