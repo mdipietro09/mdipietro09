@@ -9,7 +9,7 @@
     - 
 
 - Web Development
-    - Dash App to [plan weddings](https://github.com/mdipietro09/App_Wedding) ⟶ [plan your :wedding:](https://app-wedding-planner.herokuapp.com/) or [read how I made it :book:](https://towardsdatascience.com/web-development-with-python-dash-complete-tutorial-6716186e09b3)
+    - Dash App to [plan weddings](https://github.com/mdipietro09/App_Wedding) ⟶ [plan your  :wedding:](https://app-wedding-planner.herokuapp.com/)    or [read how I made it :book:](https://towardsdatascience.com/web-development-with-python-dash-complete-tutorial-6716186e09b3)
     
     - Dash App to [forecast covid](https://github.com/mdipietro09/App_VirusForecaster) ⟶ [try the :chart:](https://app-virus-forecaster.herokuapp.com/) or [read how I made it :book:](https://towardsdatascience.com/how-to-embed-bootstrap-css-js-in-your-python-dash-app-8d95fc9e599e)
     
