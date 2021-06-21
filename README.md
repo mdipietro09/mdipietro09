@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdipietro09&label=Profile%20views&color=0e75b6&style=flat" alt="mdipietro09"/> </p>
 
-<p><a href="https://commons.wikimedia.org/wiki/File:8-cell.gif#/media/File:8-cell.gif"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/8-cell.gif" alt="8-cell.gif"></a><br>By &lt;a href="https://en.wikipedia.org/wiki/User:JasonHise" class="extiw" title="w:User:JasonHise"&gt;Jason Hise&lt;/a&gt; - &lt;span class="int-own-work" lang="en"&gt;Own work&lt;/span&gt;, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=1702289">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:8-cell.gif#/media/File:8-cell.gif"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/8-cell.gif" alt="8-cell.gif"></a></p>
 
 :computer: Welocome to my office, here you shall find
 
