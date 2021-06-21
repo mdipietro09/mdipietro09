@@ -2,6 +2,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdipietro09&label=Profile%20views&color=0e75b6&style=flat" alt="mdipietro09" /> </p>
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Two_repetitions_of_a_walking_sequence_of_an_individual_recorded_using_a_motion-capture_system.gif"/>
+
 :computer: Welocome to my office, here you shall find
 
 - Data Science & Artificial Intelligence [Use Cases](https://github.com/mdipietro09/DataScience_ArtificialIntelligence_Utils):
