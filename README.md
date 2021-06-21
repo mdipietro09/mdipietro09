@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdipietro09&label=Profile%20views&color=0e75b6&style=flat" alt="mdipietro09" /> </p>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Two_repetitions_of_a_walking_sequence_of_an_individual_recorded_using_a_motion-capture_system.gif"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Two_repetitions_of_a_walking_sequence_of_an_individual_recorded_using_a_motion-capture_system.gif" height="50" width="50" />
 
 :computer: Welocome to my office, here you shall find
 
@@ -23,6 +23,8 @@
     - [Flask App to match strings](https://github.com/mdipietro09/App_StringsMatcher) ⟶ [test it on your 📂](https://app-strings-matcher.herokuapp.com/) or [read how I made it 📖](https://towardsdatascience.com/surpass-excel-vlookup-with-python-and-nlp-ab20d56c4a1a)
     
     - [Flask App for news sentiment](https://github.com/mdipietro09/App_WebNewsEngine) ⟶ [see what's happening on 🌎](https://app-strings-matcher.herokuapp.com/)
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Two_repetitions_of_a_walking_sequence_of_an_individual_recorded_using_a_motion-capture_system.gif"/>
 
 :black_nib:	Most of my projects are documented on <a href="https://mdipietro09.medium.com" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@chandrikadeb7" height="15" width="20" /></a>
 
