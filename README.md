@@ -1,6 +1,6 @@
 ### I'm a Data Scientist and I love it! :it: :earth_americas: :alien: :ghost:
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chandrikadeb7&label=Profile%20views&color=0e75b6&style=flat" alt="chandrikadeb7" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdipietro09&label=Profile%20views&color=0e75b6&style=flat" alt="mdipietro09" /> </p>
 
 :computer: Welocome to my office, here you shall find:
 
