@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdipietro09&label=Profile%20views&color=0e75b6&style=flat" alt="mdipietro09" /> </p>
 
-:computer: Welocome to my office, here you shall find:
+:computer: Welocome to my office, here you shall find
 
 - Data Science & Machine Learning real [Use Cases](https://github.com/mdipietro09/DataScience_ArtificialIntelligence_Utils) with:
     - Time series 📈
@@ -11,7 +11,7 @@
     - Natural Language Processing 📰
     - Computer Vision 👁️
 
-- Web Development
+- Web Development:
     - [Telegram Bot that reminds events](https://github.com/mdipietro09/Bot_TelegramDatesReminder) ⟶ [chat with the 🤖](https://t.me/DatesReminderBot) or [read how I made it 📖](https://pub.towardsai.net/build-deploy-a-python-bot-with-short-term-and-long-term-memory-a3f1cd6254b8)
     
     - [Dash App to plan weddings](https://github.com/mdipietro09/App_Wedding) ⟶ [plan your 💒](https://app-wedding-planner.herokuapp.com/) or [read how I made it 📖](https://towardsdatascience.com/web-development-with-python-dash-complete-tutorial-6716186e09b3)
