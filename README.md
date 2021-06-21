@@ -1,5 +1,7 @@
 ### I'm a Data Scientist and I love it! :it: :earth_americas: :alien: :ghost:
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chandrikadeb7&label=Profile%20views&color=0e75b6&style=flat" alt="chandrikadeb7" /> </p>
+
 :computer: Welocome to my office, here you shall find:
 
 - Data Science & Machine Learning real [Use Cases](https://github.com/mdipietro09/DataScience_ArtificialIntelligence_Utils) with:
@@ -9,12 +11,15 @@
     - 
 
 - Web Development
-    - Dash App to [plan weddings](https://github.com/mdipietro09/App_Wedding) ⟶ [plan your  :wedding:](https://app-wedding-planner.herokuapp.com/)    or [read how I made it :book:](https://towardsdatascience.com/web-development-with-python-dash-complete-tutorial-6716186e09b3)
+    - [Telegram Bot that reminds events](https://github.com/mdipietro09/Bot_TelegramDatesReminder) ⟶ [chat with the :robot:](https://t.me/DatesReminderBot) or [read how I made it :book:](https://pub.towardsai.net/build-deploy-a-python-bot-with-short-term-and-long-term-memory-a3f1cd6254b8)
     
-    - Dash App to [forecast covid](https://github.com/mdipietro09/App_VirusForecaster) ⟶ [try the :chart:](https://app-virus-forecaster.herokuapp.com/) or [read how I made it :book:](https://towardsdatascience.com/how-to-embed-bootstrap-css-js-in-your-python-dash-app-8d95fc9e599e)
+    - [Dash App to plan weddings](https://github.com/mdipietro09/App_Wedding) ⟶ [plan your :wedding:](https://app-wedding-planner.herokuapp.com/)    or [read how I made it :book:](https://towardsdatascience.com/web-development-with-python-dash-complete-tutorial-6716186e09b3)
     
-    - [Flask App]()
-    - [Telegram Bot](https://github.com/mdipietro09/Bot_TelegramDatesReminder) ⟶ [chat with the :robot:](https://t.me/DatesReminderBot)
+    - [Dash App to forecast covid](https://github.com/mdipietro09/App_VirusForecaster) ⟶ [try the :chart:](https://app-virus-forecaster.herokuapp.com/) or [read how I made it :book:](https://towardsdatascience.com/how-to-embed-bootstrap-css-js-in-your-python-dash-app-8d95fc9e599e)
+    
+    - [Flask App to match strings](https://github.com/mdipietro09/App_StringsMatcher) ⟶ [test it on your :open_file_folder:](https://app-strings-matcher.herokuapp.com/) or [read how I made it :book:](https://towardsdatascience.com/surpass-excel-vlookup-with-python-and-nlp-ab20d56c4a1a)
+    
+    - [Flask App to read news]() ⟶ [try the :chart:](https://app-strings-matcher.herokuapp.com/) or [read how I made it :book:](https://towardsdatascience.com/surpass-excel-vlookup-with-python-and-nlp-ab20d56c4a1a)
 
 :black_nib:	Most of my projects are documented on [Medium](https://mdipietro09.medium.com/)
 
