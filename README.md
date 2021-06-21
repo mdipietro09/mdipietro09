@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdipietro09&label=Profile%20views&color=0e75b6&style=flat" alt="mdipietro09" /> </p>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Two_repetitions_of_a_walking_sequence_of_an_individual_recorded_using_a_motion-capture_system.gif" height="500" width="500" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Two_repetitions_of_a_walking_sequence_of_an_individual_recorded_using_a_motion-capture_system.gif" height="400" width="300" />
 
 :computer: Welocome to my office, here you shall find
 
