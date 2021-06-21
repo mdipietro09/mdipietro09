@@ -3,7 +3,8 @@
 Welocome to my office, here you can find:
 
 - Data Science & Machine Learning use cases [here]()
-* Web Development
+--
+- Web Development
 
 Most of my projects are documented on [Medium](https://mdipietro09.medium.com/)
 
