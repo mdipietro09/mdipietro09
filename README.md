@@ -20,7 +20,7 @@
     
     - [Dash App to forecast covid](https://github.com/mdipietro09/App_VirusForecaster) ⟶ [try the 📉](https://app-virus-forecaster.herokuapp.com/) and [read how I made it 📖](https://towardsdatascience.com/how-to-embed-bootstrap-css-js-in-your-python-dash-app-8d95fc9e599e)
     
-    - [Flask App to match strings](https://github.com/mdipietro09/App_StringsMatcher) ⟶ [test it on your 📂](https://app-strings-matcher.herokuapp.com/) and [read how I made it 📖](https://towardsdatascience.com/surpass-excel-vlookup-with-python-and-nlp-ab20d56c4a1a)
+    - [Flask App for string matching](https://github.com/mdipietro09/App_StringsMatcher) ⟶ [test it on your 📂](https://app-strings-matcher.herokuapp.com/) and [read how I made it 📖](https://towardsdatascience.com/surpass-excel-vlookup-with-python-and-nlp-ab20d56c4a1a)
     
     - [Flask App for news sentiment](https://github.com/mdipietro09/App_WebNewsEngine) ⟶ [see what's happening on 🌎](https://app-strings-matcher.herokuapp.com/)
 
