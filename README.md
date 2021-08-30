@@ -13,6 +13,11 @@
     - Natural Language Processing 📰
     - Computer Vision 👁️
 
+- [Quantum Computing](https://github.com/mdipietro09/QuantumComputing_Utils):
+    - Quantum Mechanics :microscope:
+    - Quantum Algorithms :dna:
+    - Quantum Machine Learning :electron:
+
 - Web Development:
     - [Telegram Bot that reminds events](https://github.com/mdipietro09/Bot_TelegramDatesReminder) ⟶ [chat with the 🤖](https://t.me/DatesReminderBot) and [read how I made it 📖](https://pub.towardsai.net/build-deploy-a-python-bot-with-short-term-and-long-term-memory-a3f1cd6254b8)
     
