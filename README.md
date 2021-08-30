@@ -14,7 +14,7 @@
     - Computer Vision 👁️
 
 - [Quantum Computing](https://github.com/mdipietro09/QuantumComputing_Utils):
-    - Quantum Mechanics :microscope:
+    - Quantum Mechanics :atom_symbol:
     - Quantum Algorithms :dna:
     - Quantum Machine Learning :electron:
 
