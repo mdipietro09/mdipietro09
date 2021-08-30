@@ -6,6 +6,8 @@
 
 :computer: Welocome to my office, here you shall find the following repositories/projects:
 
+<br/>
+
 - [Data Science & Artificial Intelligence Use Cases](https://github.com/mdipietro09/DataScience_ArtificialIntelligence_Utils):
     - Data analysis 📊
     - Time series 📈
