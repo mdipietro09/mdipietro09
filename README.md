@@ -13,14 +13,14 @@
     - Natural Language Processing 📰
     - Computer Vision 👁️
 
-<br/><br/>
+<br/>
 
 - [Quantum Computing](https://github.com/mdipietro09/QuantumComputing_Utils):
     - Quantum Mechanics :atom_symbol:
     - Quantum Algorithms :dna:
     - Quantum Machine Learning :electron:
 
-<br/><br/>
+<br/>
 
 - Web Development:
     - [Telegram Bot that reminds events](https://github.com/mdipietro09/Bot_TelegramDatesReminder) ⟶ [chat with the 🤖](https://t.me/DatesReminderBot) and [read how I made it 📖](https://pub.towardsai.net/build-deploy-a-python-bot-with-short-term-and-long-term-memory-a3f1cd6254b8)
@@ -33,7 +33,7 @@
     
     - [Flask App for news sentiment](https://github.com/mdipietro09/App_WebNewsEngine) ⟶ [see what's happening on 🌎](https://app-strings-matcher.herokuapp.com/)
 
-<br/><br/>
+<br/>
 
 :black_nib:	Most of my projects are documented on <a href="https://mdipietro09.medium.com" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@mdipietro09" height="15" width="20"/></a>
 
