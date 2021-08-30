@@ -9,7 +9,7 @@
 - [Data Science & Artificial Intelligence Use Cases](https://github.com/mdipietro09/DataScience_ArtificialIntelligence_Utils):
     - Data analysis 📊
     - Time series 📈
-    - Machine Learning :electron:
+    - Machine Learning :gear:
     - Natural Language Processing 📰
     - Computer Vision 👁️
 
