@@ -1,4 +1,4 @@
-### I'm a Data Scientist, I do Data Science stuff ... and I love it! 🇮🇹 👽 👻
+### Nothing cool, I code, check out my stuff 🇮🇹 👽 👻
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdipietro09&label=Profile%20views&color=0e75b6&style=flat" alt="mdipietro09"/> </p>
 
