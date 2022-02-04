@@ -37,6 +37,11 @@
 
 <br/>
 
+- Mobile Development
+    - [iOS App to memorize words](https://github.com/mdipietro09/mApp_Memorizer)
+
+<br/>
+
 :black_nib:	All my projects are documented on <a href="https://mdipietro09.medium.com" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@mdipietro09" height="15" width="20"/></a>
 
 🗨️ Contact me on <a href="https://www.linkedin.com/in/mauro-di-pietro-56a1366b/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mdipietro09" height="15" width="20"/></a> or <a href="https://twitter.com/maurodp90" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mdipietro09" height="15" width="20"/></a> or <a href="https://www.instagram.com/maurodp09/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mdipietro09" height="15" width="20"/></a>
