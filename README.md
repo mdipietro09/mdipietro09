@@ -33,7 +33,7 @@
     
     - [Flask App for string matching](https://github.com/mdipietro09/App_StringsMatcher) ⟶ [test it on your 📂](https://app-strings-matcher.herokuapp.com/) and [read how I made it 📖](https://towardsdatascience.com/surpass-excel-vlookup-with-python-and-nlp-ab20d56c4a1a)
     
-    - [Flask App for news sentiment](https://github.com/mdipietro09/App_WebNewsEngine) ⟶ [see what's happening on 🌎](https://app-strings-matcher.herokuapp.com/)
+    - [Flask App for news sentiment](https://github.com/mdipietro09/App_WebNewsEngine) ⟶ [see what's happening on 🌎](https://app-news-engine.herokuapp.com/)
 
 <br/>
 
