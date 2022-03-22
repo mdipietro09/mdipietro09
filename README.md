@@ -1,4 +1,4 @@
-### Nothing cool, I code and write, check out my stuff 🇮🇹 👽 👻
+### I code & write about it, check out my stuff 🇮🇹 👽 👻
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdipietro09&label=Profile%20views&color=0e75b6&style=flat" alt="mdipietro09"/> </p>
 
