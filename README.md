@@ -14,6 +14,7 @@
     - Machine Learning :gear:
     - Natural Language Processing 📰
     - Computer Vision 👁️
+    - Reinforcement Learning 🤖
 
 <br/>
 
