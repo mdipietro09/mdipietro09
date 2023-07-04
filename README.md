@@ -4,13 +4,13 @@
 
 <p><a href="https://commons.wikimedia.org/wiki/File:8-cell.gif#/media/File:8-cell.gif"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/8-cell.gif" alt="8-cell.gif"></a></p>
 
-:computer: Welocome to my office, here you shall find the following repositories/projects:
+:computer: Welcome to my office, here you shall find the following repositories/projects:
 
 <br/>
 
 - [Data Science & Artificial Intelligence](https://github.com/mdipietro09/DataScience_ArtificialIntelligence_Utils)
-    - Data analysis 📊
-    - Time series 📈
+    - Data Analysis 📊
+    - Time Series 📈
     - Machine Learning :gear:
     - Natural Language Processing 📰
     - Computer Vision 👁️
