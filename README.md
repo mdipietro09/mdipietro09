@@ -27,13 +27,9 @@
 
 - Web Development
     - [Telegram Bot that reminds events](https://github.com/mdipietro09/Bot_TelegramDatesReminder) ⟶ [use the 🤖](https://t.me/DatesReminderBot) and [read how I made it 📖](https://pub.towardsai.net/build-deploy-a-python-bot-with-short-term-and-long-term-memory-a3f1cd6254b8)
-    
     - [Dash App to plan weddings](https://github.com/mdipietro09/App_Wedding) ⟶ [plan your 💒](https://app-wedding-planner.herokuapp.com/) and [read how I made it 📖](https://towardsdatascience.com/web-development-with-python-dash-complete-tutorial-6716186e09b3)
-    
     - [Dash App to forecast covid](https://github.com/mdipietro09/App_VirusForecaster) ⟶ [try the 📉](https://app-virus-forecaster.herokuapp.com/) and [read how I made it 📖](https://towardsdatascience.com/how-to-embed-bootstrap-css-js-in-your-python-dash-app-8d95fc9e599e)
-    
     - [Flask App for string matching](https://github.com/mdipietro09/App_StringsMatcher) ⟶ [test it on your 📂](https://app-strings-matcher.herokuapp.com/) and [read how I made it 📖](https://towardsdatascience.com/surpass-excel-vlookup-with-python-and-nlp-ab20d56c4a1a)
-    
     - [Flask App for news sentiment](https://github.com/mdipietro09/App_WebNewsEngine) ⟶ [see what's happening in the 🌎](https://app-news-engine.herokuapp.com/)
 
 <br/>
