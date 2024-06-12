@@ -10,7 +10,7 @@
 
 - [Generative AI](https://github.com/mdipietro09/GenerativeAI)
     - Large language models (LLM) 🧠
-    - Retrieval Augmented Generation (RAG) ⚛
+    - Retrieval Augmented Generation (RAG) 💬
 
 <br/>
 
