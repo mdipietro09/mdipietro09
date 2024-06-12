@@ -9,8 +9,8 @@
 <br/>
 
 - [Generative AI](https://github.com/mdipietro09/GenerativeAI)
-    - Retrieval Augmented Generation ⚛
-    - AI Agents 🕴🏻
+    - Large language models (LLM) 🧠
+    - Retrieval Augmented Generation (RAG) ⚛
 
 <br/>
 
