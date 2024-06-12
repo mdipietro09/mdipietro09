@@ -1,4 +1,4 @@
-![image](https://github.com/mdipietro09/mdipietro09/assets/32061654/35d7b0e4-dca1-4344-8582-2e48ffdc8ba8)### I code & write about coding, check out my stuff 🇮🇹 👽 👻
+### I code & write about coding, check out my stuff 🇮🇹 👽 👻
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdipietro09&label=Profile%20views&color=0e75b6&style=flat" alt="mdipietro09"/> </p>
 
