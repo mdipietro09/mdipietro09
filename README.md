@@ -1,10 +1,16 @@
-### I code & write about coding, check out my stuff 🇮🇹 👽 👻
+![image](https://github.com/mdipietro09/mdipietro09/assets/32061654/35d7b0e4-dca1-4344-8582-2e48ffdc8ba8)### I code & write about coding, check out my stuff 🇮🇹 👽 👻
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdipietro09&label=Profile%20views&color=0e75b6&style=flat" alt="mdipietro09"/> </p>
 
 <p><a href="https://commons.wikimedia.org/wiki/File:8-cell.gif#/media/File:8-cell.gif"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/8-cell.gif" alt="8-cell.gif"></a></p>
 
 :computer: Welcome to my office, here you shall find the following repositories/projects:
+
+<br/>
+
+- [Generative AI](https://github.com/mdipietro09/GenerativeAI)
+    - Retrieval Augmented Generation ⚛
+    - AI Agents 🕴🏻
 
 <br/>
 
