@@ -8,6 +8,11 @@
 
 <br/>
 
+- [Robotics](https://github.com/mdipietro09/RoboticsPy)
+    - 3D Simulations 🦾 :r2d2:
+
+<br/>
+
 - [Generative AI](https://github.com/mdipietro09/GenerativeAI)
     - Large Language Models (LLM) 🧠
     - Retrieval Augmented Generation (RAG) 💬
