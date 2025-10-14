@@ -9,7 +9,7 @@
 <br/>
 
 - [Robotics](https://github.com/mdipietro09/RoboticsPy)
-    - 3D Simulations 🦾 :r2d2:
+    - 3D Simulations 🦾
 
 <br/>
 
