@@ -10,6 +10,7 @@
 
 - [Robotics](https://github.com/mdipietro09/RoboticsPy)
     - 3D Simulations 🦾
+    - Reinforcement Learning 🎮
 
 <br/>
 
@@ -26,7 +27,6 @@
     - Machine Learning :gear:
     - Natural Language Processing 📰
     - Computer Vision 👁️
-    - Reinforcement Learning 🎮
 
 <br/>
 
