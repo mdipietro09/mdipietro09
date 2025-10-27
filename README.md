@@ -11,6 +11,7 @@
 - [Robotics](https://github.com/mdipietro09/RoboticsPy)
     - 3D Simulations 🦾
     - Reinforcement Learning 🎮
+    - Custom Environments 🏰
 
 <br/>
 
