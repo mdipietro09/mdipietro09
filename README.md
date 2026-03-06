@@ -15,6 +15,13 @@
 
 <br/>
 
+- [Quantum Computing](https://github.com/mdipietro09/QuantumComputing_Utils)
+    - Quantum Mechanics :atom_symbol:
+    - Quantum Algorithms :dna:
+    - Quantum Machine Learning :electron:
+
+<br/>
+
 - [Generative AI](https://github.com/mdipietro09/GenerativeAI)
     - Large Language Models (LLM) 🧠
     - Retrieval Augmented Generation (RAG) 💬
@@ -28,13 +35,6 @@
     - Machine Learning :gear:
     - Natural Language Processing 📰
     - Computer Vision 👁️
-
-<br/>
-
-- [Quantum Computing](https://github.com/mdipietro09/QuantumComputing_Utils)
-    - Quantum Mechanics :atom_symbol:
-    - Quantum Algorithms :dna:
-    - Quantum Machine Learning :electron:
 
 <br/>
 
