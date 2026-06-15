@@ -12,6 +12,7 @@
     - Large Language Models (LLM) 🧠
     - Retrieval Augmented Generation (RAG) 💬
     - Agents 👾
+    - MCP 🔌
 
 <br/>
 
